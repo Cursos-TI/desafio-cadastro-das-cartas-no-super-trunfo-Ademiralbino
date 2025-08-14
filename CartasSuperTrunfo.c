@@ -20,7 +20,7 @@ int main()
     float pib1;
     // Armazena o PIB (número com casas decimais).
     int pontos_turisticos1;
-    // Armazena o número de pontos turísticos (número inteiro)
+    // Armazena o número de pontos turísticos (número inteiro).
 
     // Variáveis para a segunda carta
     // os comentários das variáveis da primeira carta são os mesmo para as variáveis da segunda carta.
@@ -105,7 +105,7 @@ int main()
     printf("Área: %.2f km2\n", area1);
     // Imprime a variável 'area1' com duas casas decimais. O "%.2f" faz essa formatação e foi inserida a informação km2.
     printf("PIB: %.2f milhões de reais\n", pib1);
-    // Imprime a variável 'pib1' com duas casas decimais. O "%.2f" faz essa formatação e foi inserida a informação milhões re reais.
+    // Imprime a variável 'pib1' com duas casas decimais. O "%.2f" faz essa formatação e foi inserida a informação milhões de reais.
     printf("Número de Pontos Turísticos: %d\n", pontos_turisticos1);
     // O mesmo processo se repete para todas as outras variáveis das duas cartas.
     printf("\n--- INFORMAÇÕES DA SEGUNDA CARTA ---\n");
